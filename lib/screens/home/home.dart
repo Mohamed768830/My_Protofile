@@ -65,7 +65,7 @@ class _HomePageState extends State<HomePage> {
                         letterSpacing: 1.1),
                   ),
                   Text(
-                    "Saber",
+                    "Zaghloul",
                     style: GoogleFonts.montserrat(
                         fontSize: MediaQuery.of(context).size.width < 760
                             ? 16

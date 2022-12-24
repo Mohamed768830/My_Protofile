@@ -12,9 +12,9 @@ const kSocialIcons = [
 ];
 
 const kSocialLinks = [
-  "https://www.facebook.com/mohammed.eltwahy",
-  "https://www.linkedin.com/in/mohammed-saber-30440516b/",
-  "https://github.com/mohamed-eltwahy"
+  "https://www.facebook.com/profile.php?id=100005474589014",
+  "https://www.linkedin.com/in/mohamed-zaghloul-2124711b4/",
+  "https://github.com/Mohamed768830"
 ];
 
 // URL Launcher
@@ -24,7 +24,7 @@ void launchURL(String _url) async =>
 // Tools & Tech
 final kTools = ["Flutter", "Dart", "Android", "Java", "OOP"];
 
-final kTools1 = ["State Management(Provider)", "APIs and firebase", "Git"];
+final kTools1 = ["State Management(Cubit)", "APIs and firebase", "Git"];
 
 // projects
 final kProjectsBanner = [
@@ -67,7 +67,7 @@ final kContactTitles = [
 ];
 
 final kContactDetails = [
-  "Damietta, Egypt",
-  "+20 115 616 5689",
-  "mohammed.s.eltwahy@gmail.com"
+  "Mit Ghamr, El Mansoura",
+  "+20 11202517806",
+  "mohamedzaghloul26@gmail.com"
 ];

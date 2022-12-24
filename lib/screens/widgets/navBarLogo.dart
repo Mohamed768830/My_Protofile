@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class NavBarLogo extends StatelessWidget {
   final double? height;
-  NavBarLogo({ this.height});
+  NavBarLogo({this.height});
   @override
   Widget build(BuildContext context) {
     return Padding(
@@ -16,7 +16,7 @@ class NavBarLogo extends StatelessWidget {
             style: TextStyle(fontSize: height),
           ),
           Text(
-            "Mohammed Saber",
+            "Mohammed Zaghloul",
             style: TextStyle(fontFamily: "Agustina", fontSize: height),
           ),
           Text(
